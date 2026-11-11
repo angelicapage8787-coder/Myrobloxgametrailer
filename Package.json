@@ -1,0 +1,15 @@
+{
+  "name": "Robloxgametrailer",
+  "version": "1.0.0",
+  "description": "Vail Log v3 — IP Logger",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
